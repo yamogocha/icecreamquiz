@@ -1,0 +1,20 @@
+body {
+	background-image:url("../img/bg2.jpg");
+	width:100%;
+	height:auto;
+	text-align:center;
+	font-size:50px;
+	color:white !important;
+}
+
+.title{
+	padding:50px;
+}
+
+.correct {
+	color:green;
+}
+
+.incorrect {
+	color:red;
+}
